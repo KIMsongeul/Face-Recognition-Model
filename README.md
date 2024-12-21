@@ -2,10 +2,10 @@
 ### 팀원 소개
 | 이름 | 역할 | GitHub Profile |
 |------|------|---------|
-| 김민준 | 팀장 | [@KIMsongeul] (https://github.com/KIMsongeul)|
-| 최도은 | 부팀장 | [@doeun07] (https://github.com/doeun07) |
-| 구건모 | 프로그래머 | [@rra30] (https://github.com/rra30) |
-| 정혜양 | 엔지니어 | [@xom1p] (https://github.com/xom1p) |
+| 김민준 | 팀장 | [@KIMsongeul](https://github.com/KIMsongeul)|
+| 최도은 | 부팀장 | [@doeun07](https://github.com/doeun07) |
+| 구건모 | 프로그래머 | [@rra30](https://github.com/rra30) |
+| 정혜양 | 엔지니어 | [@xom1p](https://github.com/xom1p) |
 
 <img src="./assets/team.png" width="500" height="260"></img> <br>
 
