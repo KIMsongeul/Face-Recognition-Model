@@ -25,7 +25,7 @@
 - 사용자 감정 인식 가능. <br>
 <img src="./assets/face.png" width="500" height="400"></img> <br>
 - 인식한 감정을 바탕으로 맞춤형 컨텐츠 추천 서비스 제공. <br>
-<img src="./assets/ex_UI.png" width="500" height="400"></img> <br>
+<img src="./assets/ex_UI.png" width="500" height="250"></img> <br>
 - 개인 감정 일기 작성 기능 제공.
 
 ## 프로젝트 실행 방법
