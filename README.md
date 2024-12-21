@@ -7,7 +7,7 @@
 | 구건모 | 프로그래머 | [@rra30] (https://github.com/rra30) |
 | 정혜양 | 엔지니어 | [@xom1p] (https://github.com/xom1p) |
 
-<img src="./assets/team.png" width="500" height="300"></img> <br>
+<img src="./assets/team.png" width="500" height="260"></img> <br>
 
 ## 프로젝트 개발 이유
 ### 문제인식
@@ -23,6 +23,7 @@
 'gate-keeper'의 사전적 의미는 '문지기'라는 뜻입니다. 청소년들과 마음 사이에 중간 다리 역할을 한다는 뜻으로 "청소년 게이트 키퍼"로 정하게 되었습니다.
 ### 주요 기능 :
 - 사용자 감정 인식 가능.
+<img src="./assets/face.png" width="500" height="400"></img> <br>
 - 인식한 감정을 바탕으로 맞춤형 컨텐츠 추천 서비스 제공.
 - 개인 감정 일기 작성 기능 제공.
 
