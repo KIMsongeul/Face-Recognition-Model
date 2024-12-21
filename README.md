@@ -7,7 +7,7 @@
 | 구건모 | 프로그래머 | [@rra30] (https://github.com/rra30) |
 | 정혜양 | 엔지니어 | [@xom1p] (https://github.com/xom1p) |
 
-<img src="./assets/team.png" width="500" height="400"></img> <br>
+<img src="./assets/team.png" width="500" height="300"></img> <br>
 
 ## 프로젝트 개발 이유
 ### 문제인식
