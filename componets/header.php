@@ -1,7 +1,7 @@
 <header>
     <ul>
-        <li><a href="">표정분석하기</a></li>
-        <li><a href="">감정일기쓰기</a></li>
+        <li><a href="FaceRecognition">표정분석하기</a></li>
+        <li><a href="emotionDiary">감정일기쓰기</a></li>
     </ul>
     <ul>
         <?php
