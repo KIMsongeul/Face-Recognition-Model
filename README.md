@@ -23,8 +23,9 @@ K-SDGs 목표 11: 포용적이고 안전하며 지속 가능한 도시 조성이
 ### 프로젝트 명 선정 이유
 'gate-keeper'의 사전적 의미는 '문지기'라는 뜻입니다. 청소년들과 마음 사이에 중간 다리 역할을 한다는 뜻으로 "청소년 게이트 키퍼"로 정하게 되었습니다.
 ### 주요 기능 :
-- 사용자 감정 인식 가능. <br>
 <img src="./assets/face.png" width="500" height="400"></img> <br>
+- 사용자 감정 인식 가능. <br>
+<img width="730" alt="image" src="https://github.com/user-attachments/assets/7655037b-2d37-4fb3-8817-daecc0dbfe9c"/><br>
 - Gemini-Bot을 활용하여 사이트에서 대화가 가능한 채팅 시스템
 
 ## 프로젝트 실행 방법
