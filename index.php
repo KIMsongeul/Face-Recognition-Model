@@ -9,7 +9,17 @@ $resource = explode("/", $path[0]);
 
 $page = "";
 
-if (isset($resource[1])) {
+if ($resource[1] == "api") {
+    switch ($resource[2]) {
+        case "register":
+            $page = "./api/register.php";
+            break;
+        default:
+            echo "잘못된 api 접근입니다.";
+            return 0;
+    }
+    include $page;
+} else {
     switch ($resource[1]) {
         case "":
             $page = "./pages/index.php";
@@ -33,7 +43,7 @@ if (isset($resource[1])) {
             echo "잘못된 접근입니다.";
             return 0;
     }
+    include("./componets/header.php");
+    include $page;
+    include("./componets/footer.php");
 }
-include ("./componets/header.php");
-include $page;
-include ("./componets/footer.php");
