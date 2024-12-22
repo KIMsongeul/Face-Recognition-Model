@@ -24,8 +24,6 @@ K-SDGs 목표 3: 모두를 위한 건강한 삶 보장 및 웰빙 증진, K-SDGs
 ### 주요 기능 :
 - 사용자 감정 인식 가능. <br>
 <img src="./assets/face.png" width="500" height="400"></img> <br>
-- 인식한 감정을 바탕으로 맞춤형 컨텐츠 추천 서비스 제공. <br>
-<img src="./assets/ex_UI.png" width="500" height="250"></img> <br>
-- 개인 감정 일기 작성 기능 제공.
+- Gemini-Bot을 활용하여 사이트에서 대화가 가능한 채팅 시스템
 
 ## 프로젝트 실행 방법
