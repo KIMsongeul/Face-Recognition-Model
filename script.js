@@ -3,7 +3,6 @@ function register() {
   const password = document.querySelector("#password").value;
   const gender = document.querySelector("#gender").value;
   const age = document.querySelector("#age").value;
-  console.log(gender);
 
   if (!username) {
     alert("아이디를 입력해주세요!");
@@ -27,5 +26,28 @@ function register() {
         console.log(data);
       }
     });
+  }
+}
+
+function login() {
+  const username = document.querySelector("#username").value;
+  const password = document.querySelector("#password").value;
+
+  if (!username) {
+    alert("아이디를 입력해주세요!");
+  } else if (!password) {
+    alert("비밀번호를 입력해주세요!");
+  } else {
+    $.post("./api/login", {
+      username: username,  
+      password: password  
+    }).done(function (data) {
+        if(data == "로그인이 완료되었습니다.") {
+            alert(data);
+            location.href = "./";
+        } else {
+            console.log(data);
+        }
+    })
   }
 }
