@@ -1,13 +1,9 @@
 ## 팀명 : 집가고싶다
 ### 팀원 소개
-| 이름 | 역할 | GitHub Profile |
-|------|------|---------|
-| 김민준 | 팀장 | [@KIMsongeul](https://github.com/KIMsongeul)|
-| 최도은 | 부팀장 | [@doeun07](https://github.com/doeun07) |
-| 구건모 | 프로그래머 | [@rra30](https://github.com/rra30) |
-| 정혜양 | 엔지니어 | [@xom1p](https://github.com/xom1p) |
-
-<img src="./assets/team.png" width="500" height="260"></img> <br>
+|   | 이름 | 역할 | GitHub Profile |   | 이름 | 역할 | GitHub Profile |
+|------|------|------|---------|------|------|------|---------|
+| <img width="79" alt="image" src="https://github.com/user-attachments/assets/721b6caf-ff8a-41be-880e-aa6b68b32dfb" />| 김민준 | 팀장 | [@KIMsongeul](https://github.com/KIMsongeul)|<img width="86" alt="image" src="https://github.com/user-attachments/assets/90010f5b-b83a-465e-bffb-3f7354442304" />| 최도은 | 부팀장 | [@doeun07](https://github.com/doeun07) |
+| <img width="92" alt="image" src="https://github.com/user-attachments/assets/b8b5217e-aa00-442e-91f3-1285263c5f8d" />| 구건모 | 프로그래머 | [@rra30](https://github.com/rra30) |<img width="85" alt="image" src="https://github.com/user-attachments/assets/1a675aa9-4a02-4f23-9cb8-f9bb8273182b" />| 정혜양 | 엔지니어 | [@xom1p](https://github.com/xom1p) |
 
 ## 프로젝트 개발 이유
 ### 문제인식
